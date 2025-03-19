@@ -1,5 +1,7 @@
 python : 3.11.9 
-ollama model : deepseek-r1:14b
+ollama model : 
+    deepseek-r1:14b
+    gemma3:12b
 
 
 1. 가상환경
